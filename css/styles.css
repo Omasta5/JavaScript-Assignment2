@@ -1,0 +1,17 @@
+/* Will center all text and make it bigger */
+html{
+    text-align: center;
+    font-size: 34px;
+}
+
+/* Turns the custom color button aquamarine while also softening it's edges */
+body .custColor{
+    border-radius: 6%;
+    background-color: aquamarine;
+}
+
+/* Turns the random color button aquamarine while also softening it's edges */
+body .randColor{
+    border-radius: 6%;
+    background-color:crimson;
+}
